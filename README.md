@@ -28,4 +28,4 @@ This study uses two publicly available benchmark datasets. Both are segmented in
 | Dataset    | Test subject IDs |
 |:-----------|:-----------------|
 | CapnoBase  | `['0330', '0331', '0332', '0333', 0370']` |
-| BIDMC      | `['49', '50', '51', '52', bidmc_53']` |
+| BIDMC      | `['49', '50', '51', '52', '53']` |
