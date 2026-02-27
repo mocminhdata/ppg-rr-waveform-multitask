@@ -1,7 +1,7 @@
-**Nhut Minh Ho¹, Kien Trong Nguyen¹***
+**Nhut Minh Ho¹, Kien Trong Nguyen¹**
 
 ¹ Posts and Telecommunications Institute of Technology, Ho Chi Minh City, Vietnam  
-\* ntkien@ptit.edu.vn
+
 
 ## Datasets
 
@@ -9,6 +9,7 @@ This study uses two publicly available benchmark datasets. Both are segmented in
 
 ### CapnoBase
 
+- **Source:** W. Karlen, *CapnoBase IEEE TBME Respiratory Rate Benchmark*, 2021. [https://doi.org/10.5683/SP2/NLB8IT](https://doi.org/10.5683/SP2/NLB8IT)
 - **Subjects:** 42 (29 pediatric, 13 adult), recorded during elective surgery
 - **Signals:** PPG and capnography (end-tidal CO₂), sampled at 300 Hz
 - **Recording duration:** 8 min per subject
@@ -16,7 +17,7 @@ This study uses two publicly available benchmark datasets. Both are segmented in
 - **Train/Test split:** 37 / 5
 
 ### BIDMC
-
+- **Source:** Pimentel et al., *Towards a Robust Estimation of Respiratory Rate from Pulse Oximeters*, IEEE Trans. Biomed. Eng., 64(8), 2017. [https://physionet.org/content/bidmc/1.0.0/](https://physionet.org/content/bidmc/1.0.0/)
 - **Subjects:** 53 adult ICU patients; 1 excluded (bidmc_13, >75% missing annotations) → 52 used
 - **Signals:** PPG and impedance pneumography, sampled at 125 Hz
 - **Recording duration:** 8 min per subject
