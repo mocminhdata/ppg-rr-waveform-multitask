@@ -1,4 +1,4 @@
-**Nhut Minh Ho¹, Kien Trong Nguyen¹**
+**Minh Nhut Ho¹, Kien Trong Nguyen¹**
 
 ¹ Posts and Telecommunications Institute of Technology, Ho Chi Minh City, Vietnam  
 
